@@ -1,2 +1,2 @@
 # PrepcourseHenry
-este es un repositorio del prepcourse de henry
+este proyecyto es una prueba de como crear un repositorio y clonarlo desde github a mi computador
